@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> 🛠 &nbsp;My Tech Stack</h2>
+<a><img src="img/python.svg" width="40" height="40"/> </a>
+  <a><img src="img/flask.svg" width="40" height="40"/> </a>
+    <a><img src="img/pandas.svg" width="40" height="40"/> </a>
+      <a><img src="img/numpy.svg" width="40" height="40"/> </a>
+        <a><img src="img/plotly.svg" width="40" height="40"/> </a>
+          <a><img src="img/opencv.svg" width="40" height="40"/> </a>
+            <a><img src="img/html.svg" width="40" height="40"/> </a>
+              <a><img src="img/css.svg" width="40" height="40"/> </a>
+                <a><img src="img/latex.svg" width="40" height="40"/> </a>
