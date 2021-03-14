@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👨‍💻 22 years old.
 
-📕 BSc. of Computer Science.
+📕 Bachelor of Computer Science.
 
 👨‍🎓 I'm in my first year of studies towards a Masters's degreee in Computer Science.
 
