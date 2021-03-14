@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 👨‍💻 22 years old.
 
-👨‍🎓 Studying Computer Science.
+📕 BSc. of Computer Science.
 
-🔭 I’m currently working on scientific article related to COVID-19.
+👨‍🎓 I'm in my first year of studies towards a Masters's degreee in Computer Science.
 
-🌱 I’m currently learning [YOLO](https://pjreddie.com/darknet/yolo/).
+🔭 Currently working on scientific article related to COVID-19.
+
+🌱 Currently learning [YOLO](https://pjreddie.com/darknet/yolo/).
 
 📫 Reach me via mail: 
 <a target="_blank" href="mailto:wenzpatryk@gmail.com">
-  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" />
 </a>
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>             
